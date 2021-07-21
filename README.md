@@ -1,4 +1,4 @@
-#BackTester for Java Platform
+# BackTester for Java Platform
 
 ## 概要
 金融商品のトレードを行うストラテジを実装し、ヒストリカルデータに基づいて  
